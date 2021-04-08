@@ -30,15 +30,15 @@
 
 [W3schools Python Tutorial](https://www.w3schools.com/python)
 
-## syllabus
+## Syllabus
 
 | Course | Description |
 |--------|-------------|
-| Introduction | [Intro to Python](https://github.com/fadhilhaka/Basic-Python/tree/main/introduction) |
+| [Introduction](https://github.com/fadhilhaka/Basic-Python/tree/main/introduction) | Intro to Python |
 
 ## Intention
 
-This repo is built to learn [Python](https://www.python.org) using provided [syllabus](https://www.dicoding.com/academies/86/tutorials).
+This repo is built to learn [Python](https://www.python.org) using provided [syllabus](https://www.dicoding.com/academies/86/tutorials) by [Dicoding](https://www.dicoding.com/users/787116).
 
 ## Special Thanks
 
