@@ -86,6 +86,8 @@ Integrated Development Environment (IDE) lebih dari sekedar text editor untuk me
 
 Untuk menulis program pada bahasa Python, Anda dapat menggunakan teks editor apapun, misalnya Notepad++ atau sejenisnya (Windows), Nano, Vim, Gedit (Linux), atau Visual Studio Code/Atom/Sublime (semua platform). Anda juga bisa menggunakan IDLE dalam bundel package python atau IDE lain yang khusus dibuat untuk Python, misal PyCharm dari JetBrains. Pastikan menyimpan file menggunakan ekstensi yang tepat (umumnya .py untuk kode Python atau .pyc untuk kode yang sudah dikompilasi).
 
+### PyCharm
+
 1. [Unduh PyCharm Community - Free (opsional)](https://www.jetbrains.com/pycharm/)
 2. Tampilan PyCharm pada Project Baru.
 ![](https://d17ivq9b7rppb3.cloudfront.net/original/academy/20190711155735bbc74204f703637ec1e6aa24aa3a5c9c.png)
