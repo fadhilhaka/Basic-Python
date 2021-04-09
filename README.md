@@ -36,6 +36,7 @@
 |--------|-------------|
 | [Introduction](https://github.com/fadhilhaka/Basic-Python/tree/main/introduction) | Intro to Python |
 | [Python Basic](https://github.com/fadhilhaka/Basic-Python/tree/main/python-basic) | Python Basic dan Style Guide |
+| [Data Type](https://github.com/fadhilhaka/Basic-Python/tree/main/data-type) | Data Type in Python |
 
 ## Intention
 
