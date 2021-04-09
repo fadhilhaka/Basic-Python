@@ -38,7 +38,7 @@
 
 ## Intention
 
-This repo is built to learn [Python](https://www.python.org) using provided [syllabus](https://www.dicoding.com/academies/86/tutorials) by [Dicoding](https://www.dicoding.com/users/787116).
+This repo is built to learn [python](https://www.python.org) using provided [syllabus](https://www.dicoding.com/academies/86/tutorials) by [Dicoding](https://www.dicoding.com/users/787116).
 
 ## Special Thanks
 
