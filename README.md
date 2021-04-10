@@ -37,6 +37,8 @@
 | [Introduction](https://github.com/fadhilhaka/Basic-Python/tree/main/introduction) | Intro to Python |
 | [Python Basic](https://github.com/fadhilhaka/Basic-Python/tree/main/python-basic) | Python Basic dan Style Guide |
 | [Data Type](https://github.com/fadhilhaka/Basic-Python/tree/main/data-type) | Data Type in Python |
+| [Input/Output](https://github.com/fadhilhaka/Basic-Python/tree/main/input-output) | Input and Output in Python |
+| [Style Guide, Part Two](https://github.com/fadhilhaka/Basic-Python/tree/main/style-guide-part-two) | PEP8, Code Formatting, Naming |
 
 ## Intention
 
