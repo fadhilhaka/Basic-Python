@@ -39,7 +39,8 @@
 | [Data Type](https://github.com/fadhilhaka/Basic-Python/tree/main/data-type) | Data Type in Python |
 | [Input/Output](https://github.com/fadhilhaka/Basic-Python/tree/main/input-output) | Input and Output in Python |
 | [Style Guide, Part Two](https://github.com/fadhilhaka/Basic-Python/tree/main/style-guide-part-two) | PEP8, Code Formatting, Naming |
-| [FLow Control](https://github.com/fadhilhaka/Basic-Python/tree/main/flow-control) | Percabangan dan Ternary Operators |
+| [Flow Control](https://github.com/fadhilhaka/Basic-Python/tree/main/flow-control) | Percabangan dan Ternary Operators |
+| [Error and Exception Handling](https://github.com/fadhilhaka/Basic-Python/tree/main/error-handling) | Penanganan Kesalahan (Error dan Exception Handling) |
 
 ## Intention
 
