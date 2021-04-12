@@ -41,6 +41,7 @@
 | [Style Guide, Part Two](https://github.com/fadhilhaka/Basic-Python/tree/main/style-guide-part-two) | PEP8, Code Formatting, Naming |
 | [Flow Control](https://github.com/fadhilhaka/Basic-Python/tree/main/flow-control) | Percabangan dan Ternary Operators |
 | [Error and Exception Handling](https://github.com/fadhilhaka/Basic-Python/tree/main/error-handling) | Penanganan Kesalahan (Error dan Exception Handling) |
+| [Function](https://github.com/fadhilhaka/Basic-Python/tree/main/function) | Function |
 
 ## Intention
 
