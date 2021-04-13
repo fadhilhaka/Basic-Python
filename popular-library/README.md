@@ -197,4 +197,4 @@ Maka pada saat dijalankan, terdapat beberapa hal yaitu:
 * Jika kita memanggil dengan -n NAMAKITA atau --nama NAMAKITA maka berkas akan menampilkan Terima kasih telah menggunakan panggildicoding.py NAMAKITA.
 * Jika kita memanggil --help, maka akan tampil help dengan penjelasan "Masukkan Nama Anda".
 
-Anda dapat mensuplai lebih dari satu argumen, dengan menambahkan parser.add_argument sejumlah yang Anda inginkan. 
+Anda dapat mensuplai lebih dari satu argumen, dengan menambahkan parser.add_argument sejumlah yang Anda inginkan.
